@@ -1,1 +1,1 @@
-# atividade-revis-o-mongodb
+# atividade-revisao-mongodb
